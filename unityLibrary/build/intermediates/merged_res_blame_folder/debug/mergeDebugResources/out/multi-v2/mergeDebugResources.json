@@ -1,0 +1,173 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.unity3d.player.unityLibrary-debug-4:/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.unity3d.player.unityLibrary-debug-4:/values-v30_values-v30.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values-v30\\freeformwindow.xml",
+                    "from": {
+                        "startLines": "5,6,2,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "240,314,55,181,120",
+                        "endColumns": "73,71,64,58,60",
+                        "endOffsets": "309,381,115,235,176"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,129,201,266,325",
+                        "endColumns": "73,71,64,58,60",
+                        "endOffsets": "124,196,261,320,381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.unity3d.player.unityLibrary-debug-4:/values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values-v28\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.unity3d.player.unityLibrary-debug-4:/values-v31_values-v31.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "612"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "614"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.unity3d.player.unityLibrary-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "118"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "67",
+                        "endOffsets": "118"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "9,11,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "424,524,662",
+                        "endLines": "10,13,17",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "519,657,884"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "123",
+                        "endColumns": "45",
+                        "endOffsets": "164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values\\freeformwindow.xml",
+                    "from": {
+                        "startLines": "5,6,2,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "221,286,55,167,112",
+                        "endColumns": "64,63,56,53,54",
+                        "endOffsets": "281,345,107,216,162"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "169,226,282,331,377",
+                        "endColumns": "56,55,48,45,46",
+                        "endOffsets": "221,277,326,372,419"
+                    }
+                }
+            ]
+        }
+    ]
+}

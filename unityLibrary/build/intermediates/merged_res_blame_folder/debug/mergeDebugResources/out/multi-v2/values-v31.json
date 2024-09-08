@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.unity3d.player.unityLibrary-mergeDebugResources-2:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\NOCODE\\unityLibrary\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "612"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "614"
+                    }
+                }
+            ]
+        }
+    ]
+}
