@@ -14,7 +14,9 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters += listOf("armeabi-v7a", "arm64-v8a") // Include the architectures you need
+        }
     }
 
     buildTypes {
@@ -24,6 +26,22 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+        }
+    }
+    // Include JNI libraries (native .so files) from libs directory
+    sourceSets {
+        getByName("main") {
+            jniLibs.srcDirs("libs")
+        }
+    }
+
+    // Optionally configure ABI splits if targeting specific architectures
+    splits {
+        abi {
+            isEnable = true
+            reset()
+            include("armeabi-v7a", "arm64-v8a") // Target these architectures
+            isUniversalApk = false // Set to true if you want to generate a universal APK
         }
     }
     compileOptions {
@@ -50,5 +68,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
+
+    implementation(files("libs/unity-classes.jar"))
 //    implementation(project(":unityLibrary"))
 }

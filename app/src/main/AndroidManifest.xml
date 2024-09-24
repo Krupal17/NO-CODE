@@ -18,11 +18,7 @@
         <activity
             android:name=".finalcall.FinalCallActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 <!--        <activity-->
 <!--            android:name=".false_coding.ArtisticActivity"-->
@@ -34,9 +30,15 @@
 <!--            &lt;!&ndash;                <category android:name="android.intent.category.LAUNCHER" />&ndash;&gt;-->
 <!--            &lt;!&ndash;            </intent-filter>&ndash;&gt;-->
 <!--        </activity>-->
-<!--        <activity-->
-<!--            android:name=".renders.MainActivity"-->
-<!--            android:exported="true"></activity>-->
+        <activity
+            android:name=".unityTry.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
