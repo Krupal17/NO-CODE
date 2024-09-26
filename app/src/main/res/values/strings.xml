@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NO-CODE</string>
+
+    <string name="FreeformWindowSize_maximize"></string>
+    <string name="FreeformWindowSize_tablet"></string>
+    <string name="FreeformWindowSize_phone"></string>
+    <string name="FreeformWindowOrientation_landscape"></string>
+    <string name="FreeformWindowOrientation_portrait"></string>
+
+    <string name="game_view_content_description">Game view</string>
+
+</resources>
